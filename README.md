@@ -30,7 +30,7 @@ class Dharanidharan:
     flagship   = "CodeBuddy AI ⚡ — World's First Tanglish Coding Assistant"
     features   = "New Features | 14 Free AI Models | Real-Time Collab"
 
-    stack      = ["Python", "Flask", "SQLite", "tkinter", "OpenRouter", "SocketIO"]
+    stack      = ["Python", "Flask", "SQLite", "tkinter", "OpenRouter", ]
     interests  = ["AI Tools", "Full-Stack Web", "Desktop GUI", "Machine Learning"]
 
     currently  = "Building tools that solve real problems 🔥"
