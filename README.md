@@ -165,15 +165,6 @@ class Dharanidharan:
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=dharani25007-code&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7)
-
-</div>
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
