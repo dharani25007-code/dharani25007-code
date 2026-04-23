@@ -24,11 +24,11 @@ class Dharanidharan:
 
     name       = "Dharanidharan M"
     role       = "Python Developer & AI Builder 🤖"
-    location   = "Tiruppur, Tamil Nadu, India 🇮🇳"
-    education  = "B.E. Computer Science"
+    location   = "karur, Tamil Nadu, India 🇮🇳"
+    education  = "B.Tech Artificial Intelligence and Data Science (AI & DS)"
 
     flagship   = "CodeBuddy AI ⚡ — World's First Tanglish Coding Assistant"
-    features   = "28 World-First Features | 14 Free AI Models | Real-Time Collab"
+    features   = "New Features | 14 Free AI Models | Real-Time Collab"
 
     stack      = ["Python", "Flask", "SQLite", "tkinter", "OpenRouter", "SocketIO"]
     interests  = ["AI Tools", "Full-Stack Web", "Desktop GUI", "Machine Learning"]
