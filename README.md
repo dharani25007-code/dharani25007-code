@@ -94,6 +94,18 @@ class Dharanidharan:
       <p><img src="https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask"/> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/> <img src="https://img.shields.io/badge/OpenRouter-7C3AED?style=flat-square"/> <img src="https://img.shields.io/badge/SocketIO-010101?style=flat-square&logo=socket.io"/></p>
     </td>
     <td width="50%">
+      <h3 align="center">🧠 DevMind</h3>
+      <p align="center">
+        <a href="https://github.com/dharani25007-code/DevMind-">
+          <img src="https://img.shields.io/badge/View_Repo-4ecdc4?style=for-the-badge&logo=github&logoColor=black"/>
+        </a>
+      </p>
+      <p>AI-powered developer learning platform — <strong>SQLens, GitNarrate, DSAVisualizer</strong> + cross-tool adaptive skill engine that builds your personal skill graph.</p>
+      <p><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask"/> <img src="https://img.shields.io/badge/Groq-FF6B00?style=flat-square"/> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
       <h3 align="center">🤖 DevBot</h3>
       <p align="center">
         <a href="https://github.com/dharani25007-code/DevBot">
@@ -103,8 +115,6 @@ class Dharanidharan:
       <p>A coding-only AI chatbot with <strong>streaming responses</strong>. Built with Flask + OpenRouter — stays strictly on topic and answers dev questions fast.</p>
       <p><img src="https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask"/> <img src="https://img.shields.io/badge/OpenRouter-7C3AED?style=flat-square"/> <img src="https://img.shields.io/badge/HTML/JS-E34F26?style=flat-square&logo=html5&logoColor=white"/></p>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
       <h3 align="center">🎓 Student ERP</h3>
       <p align="center">
@@ -115,6 +125,8 @@ class Dharanidharan:
       <p>Full desktop ERP system — students, marks, attendance, fees — with a dark-themed GUI, role-based login, CSV import/export, and live audit log.</p>
       <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/tkinter-4ecdc4?style=flat-square"/> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/></p>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3 align="center">🏠 Housing Price ML</h3>
       <p align="center">
@@ -125,17 +137,15 @@ class Dharanidharan:
       <p>ML project comparing <strong>Linear Regression vs Decision Tree</strong> on the Boston Housing dataset — 6 visualizations, full evaluation pipeline.</p>
       <p><img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/matplotlib-11557C?style=flat-square"/></p>
     </td>
-  </tr>
-  <tr>
-    <td colspan="2">
+    <td width="50%">
       <h3 align="center">🛠️ ToolZen</h3>
       <p align="center">
         <a href="https://github.com/dharani25007-code/toolzen">
           <img src="https://img.shields.io/badge/View_Repo-4ecdc4?style=for-the-badge&logo=github&logoColor=black"/>
         </a>
       </p>
-      <p align="center">All-in-one browser web app — stylish QR code designer, file conversion (PDF, Word, images) and compression. No uploads, no server, 100% in-browser.</p>
-      <p align="center"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/></p>
+      <p>All-in-one browser web app — stylish QR code designer, file conversion (PDF, Word, images) and compression. No uploads, no server, 100% in-browser.</p>
+      <p><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/></p>
     </td>
   </tr>
 </table>
