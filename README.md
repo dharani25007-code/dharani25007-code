@@ -70,7 +70,7 @@ class Dharanidharan:
 ### 🤖 AI & APIs
 ![OpenRouter](https://img.shields.io/badge/OpenRouter-AI_Gateway-7C3AED?style=for-the-badge&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-API-FF6B00?style=for-the-badge&logo=groq&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-Ultra%20Fast%20AI-red?style=for-the-badge&logo=groq&logoColor=white)
 ![gTTS](https://img.shields.io/badge/gTTS-TTS_Engine-4ecdc4?style=for-the-badge&logoColor=white)
 ![Flask--Bcrypt](https://img.shields.io/badge/Flask--Bcrypt-Security-e05252?style=for-the-badge&logoColor=white)
 
