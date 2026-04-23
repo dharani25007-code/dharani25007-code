@@ -4,8 +4,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=800&color=4ECDC4&center=true&vCenter=true&width=700&lines=Hey!+I'm+Dharanidharan+M+%F0%9F%91%8B;Creator+of+CodeBuddy+AI+%E2%9A%A1+%7C+28+World-First+Features;Python+%7C+Flask+%7C+SQLite+%7C+OpenRouter;Building+AI+Tools+that+Actually+Work+%F0%9F%9A%80;Tanglish+AI+%7C+World's+First+%F0%9F%8C%8D;Open+to+Collaborate+%26+Build+Together+%F0%9F%A4%9D)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=800&color=4ECDC4&center=true&vCenter=true&width=700&lines=Hey!+I'm+Dharanidharan+M+%F0%9F%91%8B;Creator+of+CodeBuddy+AI+%E2%9A%A1;Python+%7C+Flask+%7C+SQLite+%7C+OpenRouter;Building+AI+Tools+that+Actually+Work+%F0%9F%9A%80;Tanglish+AI+%7C+World's+First+%F0%9F%8C%8D;Open+to+Collaborate+%26+Build+Together+%F0%9F%A4%9D)](https://git.io/typing-svg)
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dharani-dharan-m-370083376/)
