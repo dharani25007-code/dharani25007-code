@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=800&color=4ECDC4&center=true&vCenter=true&width=700&lines=Hey!+I'm+Dharanidharan+M+%F0%9F%91%8B;Creator+of+DevMind-+%F0%9F%A7%A0;Creator+of+CodeBuddy+AI+%E2%9A%A1;Python+%7C+Flask+%7C+React+%7C+OpenRouter;Building+AI+Tools+that+Actually+Work+%F0%9F%9A%80;Tanglish+AI+%7C+World%27s+First+%F0%9F%8C%8D;Open+to+Collaborate+%26+Build+Together+%F0%9F%A4%9D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=800&color=4ECDC4&center=true&vCenter=true&width=700&lines=Hey!+I'm+Dharanidharan+M+%F0%9F%91%8B;Creator+of+DevMind-+%F0%9F%A7%A0;Creator+of+CodeBuddy+AI+%E2%9A%A1;Python+%7C+Flask+%7C+React+%7C+OpenRouter;Building+AI+Tools+that+Actually+Work+%F0%9F%9A%80;Tanglish+AI+%7C+%F0%9F%8C%8D;Open+to+Collaborate+%26+Build+Together+%F0%9F%A4%9D)](https://git.io/typing-svg)
 
 <br/>
 
@@ -94,7 +94,7 @@ class Dharanidharan:
 ---
 
 ### ⚡ CodeBuddy AI &nbsp; ![FLAGSHIP](https://img.shields.io/badge/FLAGSHIP-⭐-4ecdc4?style=flat-square)
-> World's first **Tanglish AI coding assistant** — 28 world-first features, 14 free AI models, voice coding, Code DNA fingerprinting, real-time collaboration & more.
+> With **Tanglish AI coding assistant** — 28 New features, 14 free AI models, voice coding, Code DNA fingerprinting, real-time collaboration & more.
 
 ![Flask](https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
