@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=800&color=4ECDC4&center=true&vCenter=true&width=700&lines=Hey!+I'm+Dharanidharan+M+%F0%9F%91%8B;Creator+of+DevMind-+%F0%9F%A7%A0;Creator+of+CodeBuddy+AI+%E2%9A%A1;Python+%7C+Flask+%7C+React+%7C+OpenRouter;Building+AI+Tools+that+Actually+Work+%F0%9F%9A%80;Tanglish+AI+%7C+%F0%9F%8C%8D;Open+to+Collaborate+%26+Build+Together+%F0%9F%A4%9D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=800&color=4ECDC4&center=true&vCenter=true&width=700&lines=Hey!+I'm+Dharanidharan+M+%F0%9F%91%8B;Creator+of+DevMind+%F0%9F%A7%A0+%7C+PrepSense+AI+%F0%9F%8E%AF;Creator+of+CodeBuddy+AI+%E2%9A%A1+%7C+ToolZen+%F0%9F%9B%A0%EF%B8%8F;Python+%7C+Flask+%7C+React+%7C+Groq+%7C+OpenRouter;Building+AI+Tools+that+Actually+Work+%F0%9F%9A%80;Open+to+Collaborate+%26+Build+Together+%F0%9F%A4%9D)](https://git.io/typing-svg)
 
 <br/>
 
@@ -29,7 +29,7 @@ class Dharanidharan:
     education  = "B.Tech Artificial Intelligence and Data Science (AI & DS)"
 
     flagship   = "CodeBuddy AI ⚡ — World's First Tanglish Coding Assistant"
-    latest     = "DevMind- 🧠 — AI-Powered Developer Learning Platform"
+    latest     = "PrepSense AI 🎯 — Adaptive AI Interview Coach"
 
     stack      = ["Python", "Flask", "React", "SQLite", "tkinter", "OpenRouter", "Groq"]
     interests  = ["AI Tools", "Full-Stack Web", "Desktop GUI", "Machine Learning"]
@@ -60,7 +60,7 @@ class Dharanidharan:
 ![SocketIO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
 ### 🗄️ Databases & Tools
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -70,8 +70,8 @@ class Dharanidharan:
 
 ### 🤖 AI & APIs
 ![OpenRouter](https://img.shields.io/badge/OpenRouter-AI_Gateway-7C3AED?style=for-the-badge&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq-API-FF6B00?style=for-the-badge&logo=groq&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![gTTS](https://img.shields.io/badge/gTTS-TTS_Engine-4ecdc4?style=for-the-badge&logoColor=white)
 ![Flask-Bcrypt](https://img.shields.io/badge/Flask--Bcrypt-Security-e05252?style=for-the-badge&logoColor=white)
 
@@ -79,82 +79,78 @@ class Dharanidharan:
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-### 🧠 DevMind- &nbsp; ![NEW](https://img.shields.io/badge/NEW-🔥-FF6B00?style=flat-square)
-> AI-powered developer learning platform — **SQLens, GitNarrate, DSAVisualizer** + cross-tool adaptive skill engine that builds your personal skill graph.
+<div align="center">
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Flask](https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask)
-![Groq](https://img.shields.io/badge/Groq-FF6B00?style=flat-square)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![MIT License](https://img.shields.io/badge/License-MIT-4ecdc4?style=flat-square)
-&nbsp; **[View Repo →](https://github.com/dharani25007-code/DevMind-)**
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🧠 DevMind &nbsp;<img src="https://img.shields.io/badge/NEW-🔥-FF6B00?style=flat-square"/></h3>
+      <p align="center">
+        <a href="https://github.com/dharani25007-code/DevMind-">
+          <img src="https://img.shields.io/badge/View_Repo-4ecdc4?style=for-the-badge&logo=github&logoColor=black"/>
+        </a>
+      </p>
+      <p>AI-powered developer learning platform — <strong>SQLens, GitNarrate, DSAVisualizer</strong> + cross-tool adaptive skill engine that builds your personal skill graph.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask"/>
+        <img src="https://img.shields.io/badge/Groq-FF6B00?style=flat-square"/>
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🎯 PrepSense AI &nbsp;<img src="https://img.shields.io/badge/LATEST-⭐-6366f1?style=flat-square"/></h3>
+      <p align="center">
+        <a href="https://github.com/dharani25007-code/PrepSense-AI">
+          <img src="https://img.shields.io/badge/View_Repo-4ecdc4?style=for-the-badge&logo=github&logoColor=black"/>
+        </a>
+      </p>
+      <p>Adaptive AI interview coach — questions scale to your score in real time, <strong>smart follow-up probes</strong>, confidence tracker, IRI dashboard + teacher-level explanations.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React_18-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask"/>
+        <img src="https://img.shields.io/badge/Groq-FF6B00?style=flat-square"/>
+        <img src="https://img.shields.io/badge/JWT-d63aff?style=flat-square"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">⚡ CodeBuddy AI &nbsp;<img src="https://img.shields.io/badge/FLAGSHIP-⭐-4ecdc4?style=flat-square"/></h3>
+      <p align="center">
+        <a href="https://github.com/dharani25007-code/codebuddy">
+          <img src="https://img.shields.io/badge/View_Repo-4ecdc4?style=for-the-badge&logo=github&logoColor=black"/>
+        </a>
+      </p>
+      <p>World's first <strong>Tanglish AI coding assistant</strong> — 28 world-first features, 14 free AI models, voice coding, Code DNA fingerprinting, real-time collab.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask"/>
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
+        <img src="https://img.shields.io/badge/OpenRouter-7C3AED?style=flat-square"/>
+        <img src="https://img.shields.io/badge/SocketIO-010101?style=flat-square&logo=socket.io"/>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🛠️ ToolZen</h3>
+      <p align="center">
+        <a href="https://github.com/dharani25007-code/toolzen">
+          <img src="https://img.shields.io/badge/View_Repo-4ecdc4?style=for-the-badge&logo=github&logoColor=black"/>
+        </a>
+      </p>
+      <p>All-in-one browser web app — <strong>42+ QR shapes</strong>, 50+ file format conversions, PDF toolkit, AI assistant, compression. PWA with full offline mode.</p>
+      <p>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/PWA-7C3AED?style=flat-square"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
----
-
-### ⚡ CodeBuddy AI &nbsp; ![FLAGSHIP](https://img.shields.io/badge/FLAGSHIP-⭐-4ecdc4?style=flat-square)
-> With **Tanglish AI coding assistant** — 28 New features, 14 free AI models, voice coding, Code DNA fingerprinting, real-time collaboration & more.
-
-![Flask](https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![OpenRouter](https://img.shields.io/badge/OpenRouter-7C3AED?style=flat-square)
-![SocketIO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io)
-&nbsp; **[View Repo →](https://github.com/dharani25007-code/codebuddy)**
-
----
-
-### 🛠️ ToolZen
-> All-in-one browser web app — stylish QR code designer, file conversion (PDF, Word, images) and compression. No uploads, no server, **100% in-browser**.
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![MIT License](https://img.shields.io/badge/License-MIT-4ecdc4?style=flat-square)
-&nbsp; **[View Repo →](https://github.com/dharani25007-code/toolzen)**
-
----
-
-### 🤖 DevBot
-> A coding-only AI chatbot with **streaming responses**. Built with Flask + OpenRouter — stays strictly on topic and answers dev questions fast.
-
-![Flask](https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask)
-![OpenRouter](https://img.shields.io/badge/OpenRouter-7C3AED?style=flat-square)
-![HTML](https://img.shields.io/badge/HTML/JS-E34F26?style=flat-square&logo=html5&logoColor=white)
-&nbsp; **[View Repo →](https://github.com/dharani25007-code/DevBot)**
-
----
-
-### 🎓 Student Data Management System
-> Full desktop ERP system — students, marks, attendance, fees — with a **dark-themed GUI**, role-based login, CSV import/export, and live audit log.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![tkinter](https://img.shields.io/badge/tkinter-4ecdc4?style=flat-square)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![MIT License](https://img.shields.io/badge/License-MIT-4ecdc4?style=flat-square)
-&nbsp; **[View Repo →](https://github.com/dharani25007-code/Student-Data-Management-System)**
-
----
-
-### 🏠 Housing Price Prediction
-> ML project comparing **Linear Regression vs Decision Tree** on the Boston Housing dataset — 6 visualizations, full evaluation pipeline.
-
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![matplotlib](https://img.shields.io/badge/matplotlib-11557C?style=flat-square)
-![MIT License](https://img.shields.io/badge/License-MIT-4ecdc4?style=flat-square)
-&nbsp; **[View Repo →](https://github.com/dharani25007-code/housing-price-prediction)**
-
----
-
-### 🐍 echo-snake.
-> A twist on classic Snake — **your ghost follows your exact path with a 5-second delay**. Don't collide with your own past. Built with vanilla HTML5 Canvas & JavaScript.
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Canvas API](https://img.shields.io/badge/Canvas_API-000000?style=flat-square)
-![MIT License](https://img.shields.io/badge/License-MIT-4ecdc4?style=flat-square)
-&nbsp; **[View Repo →](https://github.com/dharani25007-code/echo-snake.)**
+</div>
 
 ---
 
@@ -173,6 +169,16 @@ class Dharanidharan:
 <br/>
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dharani25007-code&bg_color=0f1117&color=4ecdc4&line=4ecdc4&point=e8c547&area=true&area_color=4ecdc4&hide_border=true&radius=8)](https://github.com/dharani25007-code)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=dharani25007-code&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
