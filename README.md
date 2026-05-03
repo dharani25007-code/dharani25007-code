@@ -139,12 +139,41 @@ class Dharanidharan:
           <img src="https://img.shields.io/badge/View_Repo-4ecdc4?style=for-the-badge&logo=github&logoColor=black"/>
         </a>
       </p>
-      <p>All-in-one browser web app — <strong>42+ QR shapes</strong>, 50+ file format conversions, PDF toolkit, AI assistant, compression. PWA with full offline mode.</p>
+      <p>All-in-one browser web app — <strong>42+ QR shapes</strong>, 50+ file formats, PDF toolkit, AI assistant & compression. Installable PWA with full offline mode.</p>
       <p>
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
         <img src="https://img.shields.io/badge/PWA-7C3AED?style=flat-square"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🎓 Student ERP</h3>
+      <p align="center">
+        <a href="https://github.com/dharani25007-code/Student-Data-Management-System">
+          <img src="https://img.shields.io/badge/View_Repo-4ecdc4?style=for-the-badge&logo=github&logoColor=black"/>
+        </a>
+      </p>
+      <p>Full desktop ERP — students, marks, attendance, fees — with a <strong>dark-themed GUI</strong>, role-based login, CSV import/export, and live audit log.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/tkinter-4ecdc4?style=flat-square"/>
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🏠 Housing Price ML</h3>
+      <p align="center">
+        <a href="https://github.com/dharani25007-code/housing-price-prediction">
+          <img src="https://img.shields.io/badge/View_Repo-4ecdc4?style=for-the-badge&logo=github&logoColor=black"/>
+        </a>
+      </p>
+      <p>ML pipeline comparing <strong>Linear Regression vs Decision Tree</strong> on Boston Housing — 6 visualizations, full evaluation, correlation heatmaps.</p>
+      <p>
+        <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+        <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+        <img src="https://img.shields.io/badge/matplotlib-11557C?style=flat-square"/>
       </p>
     </td>
   </tr>
