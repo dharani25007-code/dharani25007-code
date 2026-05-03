@@ -163,17 +163,17 @@ class Dharanidharan:
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">🏠 Housing Price ML</h3>
+      <h3 align="center">🤖 DevBot</h3>
       <p align="center">
-        <a href="https://github.com/dharani25007-code/housing-price-prediction">
+        <a href="https://github.com/dharani25007-code/DevBot">
           <img src="https://img.shields.io/badge/View_Repo-4ecdc4?style=for-the-badge&logo=github&logoColor=black"/>
         </a>
       </p>
-      <p>ML pipeline comparing <strong>Linear Regression vs Decision Tree</strong> on Boston Housing — 6 visualizations, full evaluation, correlation heatmaps.</p>
+      <p>Coding-only AI chatbot with <strong>streaming token-by-token responses</strong>. Stays strictly on topic — refuses off-topic queries, powered by OpenRouter free models.</p>
       <p>
-        <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-        <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-        <img src="https://img.shields.io/badge/matplotlib-11557C?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask"/>
+        <img src="https://img.shields.io/badge/OpenRouter-7C3AED?style=flat-square"/>
+        <img src="https://img.shields.io/badge/HTML/JS-E34F26?style=flat-square&logo=html5&logoColor=white"/>
       </p>
     </td>
   </tr>
