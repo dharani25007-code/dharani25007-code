@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f1117,50:4ecdc4,100:0f1117&height=220&section=header&text=Dharanidharan%20M&fontSize=55&fontColor=ffffff&fontAlignY=40&desc=Python%20%7C%20AI%20Builder%20%7C%20Full-Stack%20Dev&descAlignY=60&descSize=20&animation=fadeIn" />
-    
 </div>
+
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=800&color=4ECDC4&center=true&vCenter=true&width=700&lines=Hey!+I'm+Dharanidharan+M+%F0%9F%91%8B;Creator+of+DevMind+%F0%9F%A7%A0+%7C+PrepSense+AI+%F0%9F%8E%AF;Creator+of+CodeBuddy+AI+%E2%9A%A1+%7C+ToolZen+%F0%9F%9B%A0%EF%B8%8F;Python+%7C+Flask+%7C+React+%7C+Groq+%7C+OpenRouter;Building+AI+Tools+that+Actually+Work+%F0%9F%9A%80;Open+to+Collaborate+%26+Build+Together+%F0%9F%A4%9D)](https://git.io/typing-svg)
@@ -187,13 +187,13 @@ class Dharanidharan:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dharani25007-code&show_icons=true&hide_border=true&count_private=true&bg_color=0f1117&title_color=4ecdc4&icon_color=4ecdc4&text_color=e8e6e0&ring_color=4ecdc4" height="175"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=dharani25007-code&show_icons=true&hide_border=true&count_private=true&bg_color=0f1117&title_color=4ecdc4&icon_color=4ecdc4&text_color=e8e6e0&ring_color=4ecdc4" height="175"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharani25007-code&layout=compact&hide_border=true&bg_color=0f1117&title_color=4ecdc4&text_color=e8e6e0" height="175"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dharani25007-code&layout=compact&hide_border=true&bg_color=0f1117&title_color=4ecdc4&text_color=e8e6e0&langs_count=8" height="175"/>
 
 <br/><br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=dharani25007-code&hide_border=true&background=0f1117&ring=4ecdc4&fire=e8c547&currStreakLabel=4ecdc4&sideLabels=e8e6e0&dates=6b6e7a&currStreakNum=ffffff&sideNums=ffffff)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dharani25007-code&hide_border=true&background=0f1117&ring=4ecdc4&fire=e8c547&currStreakLabel=4ecdc4&sideLabels=e8e6e0&dates=6b6e7a&currStreakNum=ffffff&sideNums=ffffff)](https://github.com/dharani25007-code)
 
 <br/>
 
@@ -202,6 +202,7 @@ class Dharanidharan:
 </div>
 
 ---
+
 ## 🏆 GitHub Trophies
 
 <div align="center">
@@ -231,4 +232,3 @@ class Dharanidharan:
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4ecdc4,100:0f1117&height=130&section=footer&text=Thanks%20for%20visiting!&fontSize=22&fontColor=ffffff&fontAlignY=65&animation=fadeIn"/>
 </div>
-
