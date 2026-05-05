@@ -193,7 +193,7 @@ class Dharanidharan:
 
 <br/><br/>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dharani25007-code&hide_border=true&background=0f1117&ring=4ecdc4&fire=e8c547&currStreakLabel=4ecdc4&sideLabels=e8e6e0&dates=6b6e7a&currStreakNum=ffffff&sideNums=ffffff)](https://github.com/dharani25007-code)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dharani25007-code&theme=tokyonight" width="100%"/>
 
 <br/>
 
