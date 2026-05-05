@@ -197,7 +197,7 @@ class Dharanidharan:
 
 <br/>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dharani25007-code&bg_color=0f1117&color=6366f1&line=6366f1&point=818cf8&area=true&area_color=6366f1&hide_border=true&radius=8)](https://github.com/dharani25007-code)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dharani25007-code&bg_color=0f1117&color=6366f1&line=6366f1&point=ffffff&area=true&area_color=6366f1&hide_border=true&radius=8)](https://github.com/dharani25007-code)
 
 </div>
 
