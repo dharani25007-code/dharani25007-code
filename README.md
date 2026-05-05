@@ -202,7 +202,6 @@ class Dharanidharan:
 </div>
 
 ---
-
 ## 🏆 GitHub Trophies
 
 <div align="center">
