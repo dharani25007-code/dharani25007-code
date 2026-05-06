@@ -187,9 +187,17 @@ class Dharanidharan:
 
 <div align="center">
 
-![Dharanidharan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dharani25007-code&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=6366f1&icon_color=6366f1&ring_color=6366f1)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dharani25007-code&theme=tokyonight" width="100%"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dharani25007-code&layout=compact&theme=tokyonight&hide_border=true&title_color=6366f1&langs_count=8)
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dharani25007-code&theme=tokyonight" height="180"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dharani25007-code&theme=tokyonight" height="180"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dharani25007-code&theme=tokyonight" height="180"/>
+
+<br/><br/>
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dharani25007-code&bg_color=1a1b27&color=6366f1&line=6366f1&point=ffffff&area=true&area_color=6366f130&hide_border=true&radius=8)](https://github.com/dharani25007-code)
 
