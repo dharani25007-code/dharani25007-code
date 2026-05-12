@@ -1,6 +1,5 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f1117,50:4ecdc4,100:0f1117&height=220&section=header&text=Dharanidharan%20M&fontSize=55&fontColor=ffffff&fontAlignY=40&desc=Python%20%7C%20AI%20Builder%20%7C%20Full-Stack%20Dev&descAlignY=60&descSize=20&animation=fadeIn" />
-    
 </div>
 
 <div align="center">
@@ -183,25 +182,25 @@ class Dharanidharan:
 </div>
 
 ---
-# 📊 GitHub Stats:
+
+## 📊 GitHub Stats
+
 <div align="center">
-    
-![](https://github-readme-stats.shion.dev/api?username=dharani25007-code&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=dharani25007-code&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=dharani25007-code&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<img src="https://github-readme-stats.shion.dev/api?username=dharani25007-code&theme=dark&hide_border=true&include_all_commits=true&count_private=true&title_color=4ecdc4&icon_color=4ecdc4&ring_color=4ecdc4&bg_color=0d1117" width="49%"/>
+<img src="https://streak-stats.demolab.com/?user=dharani25007-code&theme=dark&hide_border=true&background=0D1117&ring=4ecdc4&fire=4ecdc4&currStreakLabel=4ecdc4&currStreakNum=ffffff&sideLabels=4ecdc4&sideNums=ffffff&dates=888888" width="49%"/>
 
 <br/><br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=dharani25007-code&hide_border=true&background=0f1117&ring=4ecdc4&fire=e8c547&currStreakLabel=4ecdc4&sideLabels=e8e6e0&dates=6b6e7a&currStreakNum=ffffff&sideNums=ffffff)](https://git.io/streak-stats)
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=dharani25007-code&theme=dark&hide_border=true&layout=compact&bg_color=0d1117&title_color=4ecdc4&text_color=ffffff&langs_count=8" width="60%"/>
 
-<br/>
+<br/><br/>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dharani25007-code&bg_color=0f1117&color=4ecdc4&line=4ecdc4&point=e8c547&area=true&area_color=4ecdc4&hide_border=true&radius=8)](https://github.com/dharani25007-code)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dharani25007-code&bg_color=0d1117&color=4ecdc4&line=4ecdc4&point=ffffff&area=true&area_color=4ecdc420&hide_border=true&radius=8)](https://github.com/dharani25007-code)
 
 </div>
 
 ---
-
 
 ## 🏆 GitHub Trophies
 
