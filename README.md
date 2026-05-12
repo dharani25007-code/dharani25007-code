@@ -1,21 +1,7 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f1117,50:4ecdc4,100:0f1117&height=220&section=header&text=Dharanidharan%20M&fontSize=55&fontColor=ffffff&fontAlignY=40&desc=Python%20%7C%20AI%20Builder%20%7C%20Full-Stack%20Dev&descAlignY=60&descSize=20&animation=fadeIn" />
     
-</div>
-nes=Hey!+I'm+Dharanidharan+M+%F0%9F%91%8B;Creator+of+DevMind+%F0%9F%A7%A0+%7C+PrepSense+AI+%F0%9F%8E%AF;Creator+of+CodeBuddy+AI+%E2%9A%A1+%7C+ToolZen+%F0%9F%9B%A0%EF%B8%8F;Python+%7C+Flask+%7C+React+%7C+Groq+%7C+OpenRouter;Building+AI+Tools+that+Actually+Work+%F0%9F%9A%80;Open+to+Collaborate+%26+Build+Together+%F0%9F%A4%9D)](https://git.io/typing-svg)
-
-
----
-
-## 🧠 About Me
-
-```python
-class Dharanidharan:
-
-    name       = "Dharanidharan M"
-    role       = "Python Developer & AI Builder 🤖"
-    location   = "Karur, Tamil Nadu, India 🇮🇳"
-    education  = "B.Tech Artificial Intelligence and Data Science (AI & DS)"
+ata Science (AI & DS)"
 
     flagship   = "CodeBuddy AI ⚡ — World's First Tanglish Coding Assistant"
     latest     = "PrepSense AI 🎯 — Adaptive AI Interview Coach"
