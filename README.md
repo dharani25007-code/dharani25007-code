@@ -4,11 +4,6 @@
 </div>
 nes=Hey!+I'm+Dharanidharan+M+%F0%9F%91%8B;Creator+of+DevMind+%F0%9F%A7%A0+%7C+PrepSense+AI+%F0%9F%8E%AF;Creator+of+CodeBuddy+AI+%E2%9A%A1+%7C+ToolZen+%F0%9F%9B%A0%EF%B8%8F;Python+%7C+Flask+%7C+React+%7C+Groq+%7C+OpenRouter;Building+AI+Tools+that+Actually+Work+%F0%9F%9A%80;Open+to+Collaborate+%26+Build+Together+%F0%9F%A4%9D)](https://git.io/typing-svg)
 
-<br/>for-the-badge&logo=gmail&logoColor=white)](mailto:dharani25007@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=dharani25007-code&style=for-the-badge&color=4ecdc4&label=PROFILE+VIEWS)](https://github.com/dharani25007-code)
-[![GitHub followers](https://img.shields.io/github/followers/dharani25007-code?style=for-the-badge&logo=github&color=4ecdc4&label=Followers)](https://github.com/dharani25007-code?tab=followers)
-
-</div>
 
 ---
 
