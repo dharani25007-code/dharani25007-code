@@ -1,7 +1,50 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f1117,50:4ecdc4,100:0f1117&height=220&section=header&text=Dharanidharan%20M&fontSize=55&fontColor=ffffff&fontAlignY=40&desc=Python%20%7C%20AI%20Builder%20%7C%20Full-Stack%20Dev&descAlignY=60&descSize=20&animation=fadeIn" />
-    \
-    fun_fact   = "I ship complete product
+    
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=800&color=4ECDC4&center=true&vCenter=true&width=700&lines=Hey!+I'm+Dharanidharan+M+%F0%9F%91%8B;Creator+of+DevMind+%F0%9F%A7%A0+%7C+PrepSense+AI+%F0%9F%8E%AF;Creator+of+CodeBuddy+AI+%E2%9A%A1+%7C+ToolZen+%F0%9F%9B%A0%EF%B8%8F;Python+%7C+Flask+%7C+React+%7C+Groq+%7C+OpenRouter;Building+AI+Tools+that+Actually+Work+%F0%9F%9A%80;Open+to+Collaborate+%26+Build+Together+%F0%9F%A4%9D)](https://git.io/typing-svg)
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dharani-dharan-m-370083376/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dharani25007-code)
+[![Email](https://img.shields.io/badge/Email-dharani25007%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dharani25007@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=dharani25007-code&style=for-the-badge&color=4ecdc4&label=PROFILE+VIEWS)](https://github.com/dharani25007-code)
+[![GitHub followers](https://img.shields.io/github/followers/dharani25007-code?style=for-the-badge&logo=github&color=4ecdc4&label=Followers)](https://github.com/dharani25007-code?tab=followers)
+
+</div>
+
+---
+
+## 🧠 About Me
+
+```python
+class Dharanidharan:
+
+    name       = "Dharanidharan M"
+    role       = "Python Developer & AI Builder 🤖"
+    location   = "Karur, Tamil Nadu, India 🇮🇳"
+    education  = "B.Tech Artificial Intelligence and Data Science (AI & DS)"
+
+    flagship   = "CodeBuddy AI ⚡ — World's First Tanglish Coding Assistant"
+    latest     = "PrepSense AI 🎯 — Adaptive AI Interview Coach"
+
+    stack      = ["Python", "Flask", "React", "SQLite", "tkinter", "OpenRouter", "Groq"]
+    interests  = ["AI Tools", "Full-Stack Web", "Desktop GUI", "Machine Learning"]
+
+    currently  = "Building tools that solve real problems 🔥"
+    fun_fact   = "I ship complete products, not just experiments 🚀"
+
+    def greet(self):
+        return "Let's build something amazing together! 🤝"
+```
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -140,14 +183,12 @@
 </div>
 
 ---
-
-## 📊 GitHub Stats
-
+# 📊 GitHub Stats:
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=dharani25007-code&show_icons=true&hide_border=true&count_private=true&bg_color=0f1117&title_color=4ecdc4&icon_color=4ecdc4&text_color=e8e6e0&ring_color=4ecdc4" height="175"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharani25007-code&layout=compact&hide_border=true&bg_color=0f1117&title_color=4ecdc4&text_color=e8e6e0" height="175"/>
+    
+![](https://github-readme-stats.shion.dev/api?username=dharani25007-code&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=dharani25007-code&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=dharani25007-code&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <br/><br/>
 
@@ -160,6 +201,8 @@
 </div>
 
 ---
+
+
 ## 🏆 GitHub Trophies
 
 <div align="center">
