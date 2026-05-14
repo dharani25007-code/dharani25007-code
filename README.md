@@ -86,7 +86,7 @@ class Dharanidharan:
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">🧠 DevMind &nbsp;<img src="https://img.shields.iotyle=flat-square"/></h3>
+      <h3 align="center">🧠 DevMind /></h3>
       <p align="center">
         <a href="https://github.com/dharani25007-code/DevMind-">
           <img src="https://img.shields.io/badge/View_Repo-4ecdc4?style=for-the-badge&logo=github&logoColor=black"/>
