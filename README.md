@@ -124,7 +124,7 @@ class Dharanidharan:
           <img src="https://img.shields.io/badge/View_Repo-4ecdc4?style=for-the-badge&logo=github&logoColor=black"/>
         </a>
       </p>
-      <p>World's first <strong>Tanglish AI coding assistant</strong> — 28 world-first features, 14 free AI models, voice coding, Code DNA fingerprinting, real-time collab.</p>
+      <p>New Features <strong>Tanglish AI coding assistant</strong> — 28 world-first features, 14 free AI models, voice coding, Code DNA fingerprinting, real-time collab.</p>
       <p>
         <img src="https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask"/>
         <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
