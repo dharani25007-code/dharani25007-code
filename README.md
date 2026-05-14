@@ -101,7 +101,7 @@ class Dharanidharan:
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">🎯 PrepSense AI &nbsp;<img src="https://img.shields.io/badge/LATEST-⭐-6366f1?style=flat-square"/></h3>
+      <h3 align="center">🎯 PrepSense AI /badge/LATEST-⭐-6366f1?style=flat-square"/></h3>
       <p align="center">
         <a href="https://github.com/dharani25007-code/PrepSense-AI">
           <img src="https://img.shields.io/badge/View_Repo-4ecdc4?style=for-the-badge&logo=github&logoColor=black"/>
