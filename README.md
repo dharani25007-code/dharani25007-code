@@ -118,7 +118,7 @@ class Dharanidharan:
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">⚡ CodeBuddy AI &nbsp;<img src="https://img.shields.io/badge/FLAGSHIP-⭐-4ecdc4?style=flat-square"/></h3>
+      <h3 align="center">⚡ CodeBuddy AI tps://img.shields.io/badge/FLAGSHIP-⭐-4ecdc4?style=flat-square"/></h3>
       <p align="center">
         <a href="https://github.com/dharani25007-code/codebuddy">
           <img src="https://img.shields.io/badge/View_Repo-4ecdc4?style=for-the-badge&logo=github&logoColor=black"/>
