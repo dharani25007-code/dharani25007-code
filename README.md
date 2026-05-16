@@ -188,7 +188,8 @@ class Dharanidharan:
 <div align="center">
 
 <img src="https://github-readme-stats.shion.dev/api?username=dharani25007-code&theme=dark&hide_border=true&include_all_commits=true&count_private=true&title_color=4ecdc4&icon_color=4ecdc4&ring_color=4ecdc4&bg_color=0d1117" width="49%"/>
-<img src="https://streak-stats.demolab.com/?user=dharani25007-code&theme=dark&hide_border=true&background=0D1117&ring=4ecdc4&fire=4ecdc4&currStreakLabel=4ecdc4&currStreakNum=ffffff&sideLabels=4ecdc4&sideNums=ffffff&dates=888888" width="49%"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dharani25007-code&theme=dark&hide_border=true&background=0D1117&ring=4ecdc4&fire=4ecdc4&currStreakLabel=4ecdc4&currStreakNum=ffffff&sideLabels=4ecdc4&sideNums=ffffff&dates=888888" width="49%"/>
 
 <br/><br/>
 
