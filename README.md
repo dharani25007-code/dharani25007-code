@@ -7,7 +7,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=800&color=4ECDC4&center=true&vCenter=true&width=700&lines=Hey!+I'm+Dharanidharan+M+%F0%9F%91%8B;Creator+of+DevMind+%F0%9F%A7%A0+%7C+PrepSense+AI+%F0%9F%8E%AF;Creator+of+CodeBuddy+AI+%E2%9A%A1+%7C+ToolZen+%F0%9F%9B%A0%EF%B8%8F;Python+%7C+Flask+%7C+React+%7C+Groq+%7C+OpenRouter;Building+AI+Tools+that+Actually+Work+%F0%9F%9A%80;Open+to+Collaborate+%26+Build+Together+%F0%9F%A4%9D)](https://git.io/typing-svg)
 
 <br/>
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dharani-dharan-m-370083376/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dharani25007-code)
 [![Email](https://img.shields.io/badge/Email-dharani25007%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dharani25007@gmail.com)
