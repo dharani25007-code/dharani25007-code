@@ -109,7 +109,7 @@ class Dharanidharan:
       </p>
       <p>Adaptive AI interview coach — questions scale to your score in real time, <strong>smart follow-up probes</strong>, confidence tracker, IRI dashboard + teacher-level explanations.</p>
       <p>
-        <img src="https://img.shields.io/badge/React_18-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
         <img src="https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask"/>
         <img src="https://img.shields.io/badge/Groq-FF6B00?style=flat-square"/>
         <img src="https://img.shields.io/badge/JWT-d63aff?style=flat-square"/>
