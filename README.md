@@ -1,14 +1,12 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f1117,50:4ecdc4,100:0f1117&height=220&section=header&text=Dharanidharan%20M&fontSize=55&fontColor=ffffff&fontAlignY=40&desc=Python%20%7C%20AI%20Builder%20%7C%20Full-Stack%20Dev&descAlignY=60&descSize=20&animation=fadeIn" />
-    
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=800&color=4ECDC4&center=true&vCenter=true&width=700&lines=Hey!+I'm+Dharanidharan+M+%F0%9F%91%8B;Creator+of+DevMind+%F0%9F%A7%A0+%7C+PrepSense+AI+%F0%9F%8E%AF;Creator+of+CodeBuddy+AI+%E2%9A%A1+%7C+ToolZen+%F0%9F%9B%A0%EF%B8%8F;Python+%7C+Flask+%7C+React+%7C+Groq+%7C+OpenRouter;Building+AI+Tools+that+Actually+Work+%F0%9F%9A%80;Open+to+Collaborate+%26+Build+Together+%F0%9F%A4%9D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=800&color=4ECDC4&center=true&vCenter=true&width=700&lines=Hey!+I'm+Dharanidharan+M+%F0%9F%91%8B;Creator+of+DevMind+%F0%9F%A7%A0+%7C+PrepSense+AI+%F0%9F%8E%AF;Creator+of+CodeBuddy+AI+%E2%9A%A1+%7C+RAGMind+%F0%9F%94%8D;CodSoft+AI+Intern+%7C+5%2F5+Tasks+Completed+%F0%9F%8F%86;Python+%7C+Flask+%7C+React+%7C+Groq+%7C+OpenRouter;Building+AI+Tools+that+Actually+Work+%F0%9F%9A%80;Open+to+Collaborate+%26+Build+Together+%F0%9F%A4%9D)](https://git.io/typing-svg)
 
 <br/>
-
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dharani-dharan-m-370083376/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dharani25007-code)
@@ -31,10 +29,13 @@ class Dharanidharan:
     education  = "B.Tech Artificial Intelligence and Data Science (AI & DS)"
 
     flagship   = "CodeBuddy AI ⚡ — World's First Tanglish Coding Assistant"
-    latest     = "PrepSense AI 🎯 — Adaptive AI Interview Coach"
+    latest     = "RAGMind 🔍 — Self-Healing RAG Intelligence Platform"
+    internship = "CodSoft AI Internship 🎓 — May Batch C2 2026 — 5/5 Tasks ✅"
 
-    stack      = ["Python", "Flask", "React", "SQLite", "tkinter", "OpenRouter", "Groq"]
-    interests  = ["AI Tools", "Full-Stack Web", "Desktop GUI", "Machine Learning"]
+    stack      = ["Python", "Flask", "FastAPI", "React", "SQLite", "tkinter",
+                  "OpenRouter", "Groq", "OpenCV", "PyTorch"]
+    interests  = ["AI Tools", "Full-Stack Web", "Desktop GUI", "RAG Systems",
+                  "Computer Vision", "Machine Learning"]
 
     currently  = "Building tools that solve real problems 🔥"
     fun_fact   = "I ship complete products, not just experiments 🚀"
@@ -42,6 +43,30 @@ class Dharanidharan:
     def greet(self):
         return "Let's build something amazing together! 🤝"
 ```
+
+---
+
+## 🎓 CodSoft AI Internship — May Batch C2 2026
+
+<div align="center">
+
+![CodSoft](https://img.shields.io/badge/CodSoft-AI%20Internship-6c63ff?style=for-the-badge&logo=openai&logoColor=white)
+![Batch](https://img.shields.io/badge/Batch-MAY%20C2%202026-ff6b6b?style=for-the-badge)
+![Tasks](https://img.shields.io/badge/Tasks-5%2F5%20Completed-22c55e?style=for-the-badge)
+
+| # | Project | Tech | Patent Innovation |
+|---|---|---|---|
+| 1 | **MoodBot** — Adaptive Emotional Resonance Chatbot | React + Node.js + Groq | Adaptive Emotional Resonance Engine |
+| 2 | **Tic-Tac-Toe AI** — LLM-powered game | React + Node.js + Groq + Minimax | LLM explainable game AI |
+| 3 | **CaptionVerse** — VGG16/ResNet50 + Transformer | Python + Flask + PyTorch + Groq | Visual Emotional Narrative Engine |
+| 4 | **UniRec** — Universal Recommendation Engine | React + Python + Flask + Groq | Emotional DNA + Cross-Category Resonance |
+| 5 | **FaceVerse** — Haar + DNN Face Intelligence | Python + Flask + OpenCV + Groq | Facial Intelligence Orchestration Engine |
+
+<a href="https://github.com/dharani25007-code/CODSOFT">
+  <img src="https://img.shields.io/badge/View_CODSOFT_Repo-6c63ff?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
@@ -57,7 +82,10 @@ class Dharanidharan:
 
 ### ⚙️ Frameworks & Libraries
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![tkinter](https://img.shields.io/badge/tkinter-Desktop_GUI-4ecdc4?style=for-the-badge&logoColor=white)
 ![SocketIO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -88,7 +116,22 @@ class Dharanidharan:
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">🧠 DevMind </h3>
+      <h3 align="center">🔍 RAGMind</h3>
+      <p align="center">
+        <a href="https://github.com/dharani25007-code/ragmind">
+          <img src="https://img.shields.io/badge/View_Repo-14b8a6?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+      <p>Self-Healing RAG Intelligence Platform — upload 60+ file formats, ask anything. AI <strong>critiques its own answers</strong>, detects hallucinations, and retries with reformulated queries.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi"/>
+        <img src="https://img.shields.io/badge/Groq-FF6B00?style=flat-square"/>
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🧠 DevMind</h3>
       <p align="center">
         <a href="https://github.com/dharani25007-code/DevMind-">
           <img src="https://img.shields.io/badge/View_Repo-4ecdc4?style=for-the-badge&logo=github&logoColor=black"/>
@@ -102,8 +145,10 @@ class Dharanidharan:
         <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
-      <h3 align="center">🎯 PrepSense AI </h3>
+      <h3 align="center">🎯 PrepSense AI</h3>
       <p align="center">
         <a href="https://github.com/dharani25007-code/PrepSense-AI">
           <img src="https://img.shields.io/badge/View_Repo-4ecdc4?style=for-the-badge&logo=github&logoColor=black"/>
@@ -117,16 +162,14 @@ class Dharanidharan:
         <img src="https://img.shields.io/badge/JWT-d63aff?style=flat-square"/>
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
-      <h3 align="center">⚡ CodeBuddy AI </h3>
+      <h3 align="center">⚡ CodeBuddy AI</h3>
       <p align="center">
         <a href="https://github.com/dharani25007-code/codebuddy">
           <img src="https://img.shields.io/badge/View_Repo-4ecdc4?style=for-the-badge&logo=github&logoColor=black"/>
         </a>
       </p>
-      <p>New Features <strong>Tanglish AI coding assistant</strong> — 28 world-first features, 14 free AI models, voice coding, Code DNA fingerprinting, real-time collab.</p>
+      <p><strong>Tanglish AI coding assistant</strong> — 28 world-first features, 14 free AI models, voice coding, Code DNA fingerprinting, real-time collab.</p>
       <p>
         <img src="https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask"/>
         <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
@@ -134,6 +177,8 @@ class Dharanidharan:
         <img src="https://img.shields.io/badge/SocketIO-010101?style=flat-square&logo=socket.io"/>
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3 align="center">🛠️ ToolZen</h3>
       <p align="center">
@@ -148,8 +193,6 @@ class Dharanidharan:
         <img src="https://img.shields.io/badge/PWA-7C3AED?style=flat-square"/>
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
       <h3 align="center">🎓 Student ERP</h3>
       <p align="center">
@@ -164,26 +207,13 @@ class Dharanidharan:
         <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
       </p>
     </td>
-    <td width="50%">
-      <h3 align="center">🤖 DevBot</h3>
-      <p align="center">
-        <a href="https://github.com/dharani25007-code/DevBot">
-          <img src="https://img.shields.io/badge/View_Repo-4ecdc4?style=for-the-badge&logo=github&logoColor=black"/>
-        </a>
-      </p>
-      <p>Coding-only AI chatbot with <strong>streaming token-by-token responses</strong>. Stays strictly on topic — refuses off-topic queries, powered by OpenRouter free models.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask"/>
-        <img src="https://img.shields.io/badge/OpenRouter-7C3AED?style=flat-square"/>
-        <img src="https://img.shields.io/badge/HTML/JS-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-      </p>
-    </td>
   </tr>
 </table>
 
 </div>
 
 ---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -202,7 +232,6 @@ class Dharanidharan:
 </div>
 
 ---
-
 
 ## 🏆 GitHub Trophies
 
