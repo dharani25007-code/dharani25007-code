@@ -30,9 +30,6 @@ class Dharanidharan:
     location   = "Karur, Tamil Nadu, India 🇮🇳"
     education  = "B.Tech Artificial Intelligence and Data Science (AI & DS)"
 
-    flagship   = "CodeBuddy AI ⚡ — World's First Tanglish Coding Assistant"
-    latest     = "PrepSense AI 🎯 — Adaptive AI Interview Coach"
-
     stack      = ["Python", "Flask", "React", "SQLite", "tkinter", "OpenRouter", "Groq"]
     interests  = ["AI Tools", "Full-Stack Web", "Desktop GUI", "Machine Learning"]
 
