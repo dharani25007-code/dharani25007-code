@@ -139,6 +139,9 @@ class Dharanidharan:
         <a href="https://github.com/dharani25007-code/codebuddy">
           <img src="https://img.shields.io/badge/View_Repo-4ecdc4?style=for-the-badge&logo=github&logoColor=black"/>
         </a>
+        <a href="https://codebuddy-0slh.onrender.com">
+          <img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
+        </a>
       </p>
       <p><strong>Tanglish AI coding assistant</strong> — 28 world-first features, 14 free AI models, voice coding, Code DNA fingerprinting, real-time collab.</p>
       <p>
