@@ -1,12 +1,4 @@
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f1117,50:4ecdc4,100:0f1117&height=220&section=header&text=Dharanidharan%20M&fontSize=55&fontColor=ffffff&fontAlignY=40&desc=Python%20%7C%20AI%20Builder%20%7C%20Full-Stack%20Dev&descAlignY=60&descSize=20&animation=fadeIn" />
-</div>
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=800&color=4ECDC4&center=true&vCenter=true&width=700&lines=Hey!+I'm+Dharanidharan+M+%F0%9F%91%8B;Creator+of+DevMind+%F0%9F%A7%A0+%7C+PrepSense+AI+%F0%9F%8E%AF;Creator+of+RAGMind+%F0%9F%93%9A+%7C+CodeBuddy+AI+%E2%9A%A1;Creator+of+ToolZen+%F0%9F%9B%A0%EF%B8%8F+%7C+Echo+Snake+%F0%9F%90%8D;Python+%7C+Flask+%7C+React+%7C+Groq+%7C+OpenRouter;Building+AI+Tools+that+Actually+Work+%F0%9F%9A%80;Open+to+Collaborate+%26+Build+Together+%F0%9F%A4%9D)](https://git.io/typing-svg)
-
-<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dharani-dharan-m-370083376/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dharani25007-code)
