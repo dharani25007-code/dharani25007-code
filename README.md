@@ -253,23 +253,3 @@ class Dharanidharan:
 
 ---
 
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dharani-dharan-m-370083376/)
-[![Email](https://img.shields.io/badge/EMAIL-dharani25007%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dharani25007@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dharani25007-code)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-4ecdc4?style=for-the-badge&logo=vercel&logoColor=black)](https://dharani25007-code.github.io/dharani-portfolio/)
-
-<br/>
-
-> *"I don't just write code — I build things that work."* 🔥
-
-</div>
-
----
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4ecdc4,100:0f1117&height=130&section=footer&text=Thanks%20for%20visiting!&fontSize=22&fontColor=ffffff&fontAlignY=65&animation=fadeIn"/>
-</div>
