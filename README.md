@@ -263,13 +263,4 @@ class Dharanidharan:
 
 <br/>
 
-> *"I don't just write code — I build things that work."* 🔥
-
-</div>
-
----
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4ecdc4,100:0f1117&height=130&section=footer&text=Thanks%20for%20visiting!&fontSize=22&fontColor=ffffff&fontAlignY=65&animation=fadeIn"/>
-</div>
-
+> *"I don
