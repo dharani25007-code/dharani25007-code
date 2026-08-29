@@ -21,15 +21,15 @@
 ## 🧠 About Me
 
 ```python
-class Dharanidharan:
+class AI developer:
 
-    name       = "Dharanidharan M"
+    name       = "Dharani Dharan M"
     role       = "Python Developer & AI Builder 🤖"
     location   = "Karur, Tamil Nadu, India 🇮🇳"
     education  = "B.Tech Artificial Intelligence and Data Science (AI & DS)"
 
-    stack      = ["Python", "Flask", "React", "Node.js", "SQLite", "tkinter", "OpenRouter", "Groq"]
-    interests  = ["AI Tools", "Full-Stack Web", "Desktop GUI", "Machine Learning", "RAG Systems"]
+    stack      = ["Python", "AI models", "AI agents", "Flask", "React", "Node.js", "SQLite", "tkinter", "OpenRouter", "Groq"]
+    interests  = ["AI Tools", "Full-Stack Web", "AI system", "LLMs & SLMs", "Machine Learning", "RAG Systems"]
 
     currently  = "Building tools that solve real problems 🔥"
     fun_fact   = "I ship complete products, not just experiments 🚀"
